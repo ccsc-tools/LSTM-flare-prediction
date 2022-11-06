@@ -27,6 +27,8 @@ For the latest updates of FlarePredict refer to [https://github.com/deepsuncode/
 
 ## Installation on local machine
 
+Requires ```Python==3.6.x``` (was tested on 3.6.8)
+
 |Library | Version   | Description  |
 |---|---|---|
 |pandas|1.1.5|Data analysis and manipulation tool|
